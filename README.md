@@ -4,7 +4,7 @@ Learn how to import animations from Adobe After Effects into React Native apps w
 
 ## Tutorial
 
-Read the full tutorial here http://rationalappdev.com/amazing-animations-with-react-native-lottie
+Read the full tutorial here http://rationalappdev.com/amazing-after-effects-animations-in-react-native-apps
 
 ## Demo
 
